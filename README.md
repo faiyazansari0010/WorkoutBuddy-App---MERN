@@ -1,2 +1,2 @@
 # WorkoutBuddy-App - MERN stack
-A full stack web app developed using MongoDB, ExpressJS, ReactJS and NodeJS
+A full stack web app to track personal workouts, developed using MongoDB, ExpressJS, ReactJS and NodeJS
