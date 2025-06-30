@@ -3,4 +3,4 @@ A full stack web app to track personal workouts, developed using MongoDB, Expres
 
 Live At - https://workoutbuddyfrontend.netlify.app/
 
-Frontend` Code At - https://github.com/faiyazansari0010/WorkoutBuddy-App_Frontend
+Frontend Code At - https://github.com/faiyazansari0010/WorkoutBuddy-App_Frontend
