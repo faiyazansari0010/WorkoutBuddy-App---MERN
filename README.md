@@ -13,3 +13,9 @@ A full stack web app to track personal workouts, developed using MongoDB, Expres
 
 
 Frontend Code At - https://github.com/faiyazansari0010/WorkoutBuddy-App_Frontend
+
+
+<img src="https://github.com/user-attachments/assets/60e7f193-1b80-4fa7-98e9-a590130630fa" width="600" height="" />
+
+<img src="https://github.com/user-attachments/assets/f4cb7778-d602-4e5d-bb05-11cdab50f476" width="600" height="" />
+
